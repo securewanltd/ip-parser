@@ -7,7 +7,9 @@ This project uses Python code to reference a txt list and convert it to a new li
 ### use python3 
 python3 ip-parser.py
 
-Note: You can update the variables below as per your needs.
+## **Note:**
+
+You can update the variables below as per your needs.
 
 * output_prefix = The part list to be created
 * split_ip_list = Reference List
