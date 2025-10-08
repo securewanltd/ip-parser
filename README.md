@@ -9,5 +9,5 @@ python3 ip-parser.py
 
 Note: You can update the variables below as per your needs.
 
-output_prefix = The part list to be created
-split_ip_list = Reference List
+* output_prefix = The part list to be created
+* split_ip_list = Reference List
