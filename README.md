@@ -1,1 +1,8 @@
-# ip-parser
+# **IP Address Parser**
+
+This project uses Python code to reference a txt list and convert it to a new list every 130K rows.
+
+## **Usage:**
+
+### use python3 
+python3 ip-parser.py
